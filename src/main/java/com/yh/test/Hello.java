@@ -5,14 +5,8 @@ public class Hello {
         int a =1;
         int b = a+2;
 
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
-        aa();
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("git");
+
+
     }
 
     public static void aa() {
